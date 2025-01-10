@@ -1,0 +1,7 @@
+treat	qualitative	R2	Dim.17	0.0523465147523969	0.00883745243895454
+FIB4.class	qualitative	R2	Dim.17	0.0523465147523969	0.00883745243895454
+FIB4.Adv.Fib=Assessment	qual_category	coord_var_barycentre	Dim.5	-9.57396590653253	0.0346912788992927
+FIB4.class=Fib1	qual_category	coord_var_barycentre	Dim.17	5.74708638943686	0.0088374524389546
+treat=Treat	qual_category	coord_var_barycentre	Dim.17	5.74708638943686	0.0088374524389546
+FIB4.class=Fib0	qual_category	coord_var_barycentre	Dim.17	-5.74708638943686	0.00883745243895459
+treat=Ctrl	qual_category	coord_var_barycentre	Dim.17	-5.74708638943686	0.00883745243895459
